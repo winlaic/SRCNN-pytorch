@@ -1,0 +1,7 @@
+log
+.vscode
+models
+__pycache__
+*.h5
+*.npz
+tensorboard
