@@ -20,7 +20,7 @@ Pillow==6.2.1
 
 skimage==0.16.2
 
-winlaic (which can be found in my repositories)
+winlaic (which can be found in my repositories, use version in https://github.com/winlaic/winlaic/commit/2facccc5bc51894e40589f53a40e93fbbb4be502)
 
 
 
